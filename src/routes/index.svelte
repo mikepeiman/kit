@@ -24,7 +24,7 @@
 	<section class="splitter splitter-w-1 splitter-g-3 | my-1">
 		<div class="flow flex-col">
 			<Logo class="self-start" />
-			<h1 class="px-0">Hi, I'm Kevin.</h1>
+			<h1 class="px-0">Hi, I'm Mike.</h1>
 			<span class="px-0 text-00 text-gray-200">
 				<Crinkle /> I'm a Software Engineer working at
 				<a href="https://finaps.nl" title="Website of Finaps B.V."> Finaps</a>, where I mostly do
